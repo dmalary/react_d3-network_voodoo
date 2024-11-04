@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Adjassou",
+    "family_nation": "n/a",
+    "relationships": "",
+    "patronage_power": "spring water"
+  },
+  {
+    "name": "Ounto",
+    "family_nation": "Rada",
+    "relationships": "",
+    "patronage_power": "drumming"
+  },
+  {
+    "name": "Agaou",
+    "family_nation": "Rada",
+    "relationships": "Bade,",
+    "patronage_power": "storms, earthquakes"
+  },
+  {
+    "name": "Agassou",
+    "family_nation": "Rada",
+    "relationships": "Ayida-Weddo, Agwé",
+    "patronage_power": "money, water"
+  },
+  {
+    "name": "Agwé",
+    "family_nation": "Rada, Petro",
+    "relationships": "Erzulie, La Sirène, Agassou, Silibo, Ogou,",
+    "patronage_power": "sea, fish, aquatic plants, winds, ships, sailors, fishermen"
+  },
+  {
+    "name": "Anaisa Pye",
+    "family_nation": "n/a",
+    "relationships": "Belie Belcan,",
+    "patronage_power": "love, money, general happiness"
+  },
+  {
+    "name": "Ayida-Weddo",
+    "family_nation": "Rada",
+    "relationships": "Damballa, Erzulie, Agassou,",
+    "patronage_power": "fertility, rainbows, wind, water, fire, wealth, thunder, snakes"
+  },
+  {
+    "name": "Ayizan",
+    "family_nation": "Rada",
+    "relationships": "Papa Legba, Loko, Gran Aloumandia",
+    "patronage_power": "marketplaces, commerce, priestly knowledge, mysteries, public places, doors, barriers"
+  },
+  {
+    "name": "Azaka",
+    "family_nation": "Rada",
+    "relationships": "Erzulie, Gede, Gran Aloumandia",
+    "patronage_power": "thunder, agriculture, harvest, farmers, peasants"
+  },
+  {
+    "name": "Bakulu Baka",
+    "family_nation": "Petro",
+    "relationships": "",
+    "patronage_power": "forests"
+  },
+  {
+    "name": "Bade",
+    "family_nation": "Rada",
+    "relationships": "Sogbo, Agaou,",
+    "patronage_power": "wind"
+  },
+  {
+    "name": "Baron Samedi",
+    "family_nation": "Gede",
+    "relationships": "Gede, Maman Brigitte, Papa Legba, Maître Kalfu, Gran Bwa,",
+    "patronage_power": "Death, tombs, gravestones, cemeteries, dead relatives, obscenities, healing, smoking, drinking, disruption, spirits, crossroads"
+  },
+  {
+    "name": "Belie Belcan",
+    "family_nation": "n/a",
+    "relationships": "Anaisa Pye",
+    "patronage_power": ""
+  },
+  {
+    "name": "Bossou",
+    "family_nation": "Rada, Petro, Kongo",
+    "relationships": "Toro",
+    "patronage_power": "war, traveling"
+  },
+  {
+    "name": "Boumba Maza",
+    "family_nation": "Gede, Kongo",
+    "relationships": "",
+    "patronage_power": "thunder, lightning, wind, night, moon"
+  },
+  {
+    "name": "Brize",
+    "family_nation": "Nago",
+    "relationships": "",
+    "patronage_power": "hills, woods"
+  },
+  {
+    "name": "Bugid Y Aiba",
+    "family_nation": "n/a",
+    "relationships": "",
+    "patronage_power": "war"
+  },
+  {
+    "name": "Captain Debas",
+    "family_nation": "Rada",
+    "relationships": "Gede, Maman Brigitte, Papa Legba. Baron Samedi",
+    "patronage_power": "family"
+  },
+  {
+    "name": "Clermeil",
+    "family_nation": "n/a",
+    "relationships": "",
+    "patronage_power": "rivers"
+  },
+  {
+    "name": "Congo",
+    "family_nation": "Rada, Petro",
+    "relationships": "",
+    "patronage_power": ""
+  },
+  {
+    "name": "Damballa",
+    "family_nation": "Rada",
+    "relationships": "Ayida-Weddo, Erzulie, Sobo, Ogoun",
+    "patronage_power": "mind, intellect, richesres, treasure, human sexuality"
+  },
+  {
+    "name": "Erzulie",
+    "family_nation": "Rada, Petro, Ibo",
+    "relationships": "Damballa, Agwé, Azaka, Ogoun, Ti Jean Petro, Ti Jean Dantor, Marasa, Papa Legba",
+    "patronage_power": "Love, health, beauty, passion, prosperity, perfumes, jewelry, flowers"
+  },
+  {
+    "name": "Filomez",
+    "family_nation": "Rada",
+    "relationships": "Erzulie,",
+    "patronage_power": ""
+  },
+  {
+    "name": "Gede",
+    "family_nation": "Gede, Rada",
+    "relationships": "Azaka, Baron Samedi, Captain Debas, Azaka, Gran Ibolele, Maman Brigitte",
+    "patronage_power": ""
+  },
+  {
+    "name": "Gran Bwa",
+    "family_nation": "Petro",
+    "relationships": "Maître Kalfu, Baron Samedi",
+    "patronage_power": "trees, leaves, night forest, wildlife"
+  },
+  {
+    "name": "Jean Zombi",
+    "family_nation": "Gede",
+    "relationships": "",
+    "patronage_power": ""
+  },
+  {
+    "name": "Joumalonge",
+    "family_nation": "Gede",
+    "relationships": "",
+    "patronage_power": ""
+  },
+  {
+    "name": "Maître Kalfu",
+    "family_nation": "Petro",
+    "relationships": "Papa Legba, Gran Bwa, Baron Samedi",
+    "patronage_power": "crossroads, bad luck, deliberate destruction, misfortune, injustice, charms and sorceries"
+  },
+  {
+    "name": "Klemezin",
+    "family_nation": "Rada",
+    "relationships": "",
+    "patronage_power": "enlightens difficulties and decisions"
+  },
+  {
+    "name": "Lemba",
+    "family_nation": "Kongo",
+    "relationships": "Gran Aloumandia",
+    "patronage_power": "stones, warrior ethos, lightning"
+  },
+  {
+    "name": "Linglessu",
+    "family_nation": "n/a",
+    "relationships": "",
+    "patronage_power": "protector of secrets"
+  },
+  {
+    "name": "La Sirène",
+    "family_nation": "Rada, Ibo, Kongo",
+    "relationships": "Agwé, Gran Ibolele, Ceverine",
+    "patronage_power": "sea"
+  },
+  {
+    "name": "Limba",
+    "family_nation": "Kongo",
+    "relationships": "Gran Aloumandia",
+    "patronage_power": "stone, rocks"
+  },
+  {
+    "name": "Loko",
+    "family_nation": "Rada, Ibo",
+    "relationships": "Ayizan, Papa Legba",
+    "patronage_power": "vegetation, guardian of sanctuaries, healing, herbs, communication"
+  },
+  {
+    "name": "Lovana",
+    "family_nation": "Rada",
+    "relationships": "",
+    "patronage_power": "joy, celebration"
+  },
+  {
+    "name": "Mademoiselle Charlotte",
+    "family_nation": "n/a",
+    "relationships": "Dinclinsin",
+    "patronage_power": "european culture"
+  },
+  {
+    "name": "Dinclinsin",
+    "family_nation": "n/a",
+    "relationships": "Mademoiselle Charlotte",
+    "patronage_power": "theft"
+  },
+  {
+    "name": "Maîtresse Délai",
+    "family_nation": "n/a",
+    "relationships": "",
+    "patronage_power": "tambourine players"
+  },
+  {
+    "name": "Maîtresse Hounon'gon",
+    "family_nation": "n/a",
+    "relationships": "",
+    "patronage_power": "ritual chanting"
+  },
+  {
+    "name": "Maman Brigitte",
+    "family_nation": "Gede",
+    "relationships": "Baron Samedi, Captain Debas, Gede",
+    "patronage_power": "protector of graves"
+  },
+  {
+    "name": "Marasa",
+    "family_nation": "Rada, Petro",
+    "relationships": "Erzulie, Loko",
+    "patronage_power": "Love, truth, justice, divine power, human impotence,"
+  },
+  {
+    "name": "Marinette Pye Ché",
+    "family_nation": "Petro, Kongo",
+    "relationships": "Ti Jean Pye Séche, Ti Kita",
+    "patronage_power": "power, violence, freedom, protector of werewolves"
+  },
+  {
+    "name": "Mombu",
+    "family_nation": "n/a",
+    "relationships": "",
+    "patronage_power": "heavy rains"
+  },
+  {
+    "name": "Manze Marie",
+    "family_nation": "Rada, Petro",
+    "relationships": "Azaka, Erzulie,",
+    "patronage_power": "markets, crops, wealth, agriculture, farming"
+  },
+  {
+    "name": "Nanan-bouclou",
+    "family_nation": "n/a",
+    "relationships": "",
+    "patronage_power": "creation"
+  },
+  {
+    "name": "Papa Legba",
+    "family_nation": "Rada, Petro, Nago",
+    "relationships": "Ayizan, Baron Samedi, Loko, Maître Kalfu, Erzulie,",
+    "patronage_power": "guardian of voodoo temples, courtyards, plantations, crossroads, spiritual crossing, positive, good luck, origin of life, communication, Humility"
+  },
+  {
+    "name": "Silibo",
+    "family_nation": "Rada",
+    "relationships": "Agwé,",
+    "patronage_power": "purification, sacred sexuality"
+  },
+  {
+    "name": "Simbi",
+    "family_nation": "Rada, Petro, Kongo",
+    "relationships": "Ogoun, La Ren Kongo",
+    "patronage_power": "nature, healers, fountains, marshes, coast"
+  },
+  {
+    "name": "Sobo",
+    "family_nation": "Rada",
+    "relationships": "Damballa, Bade",
+    "patronage_power": "strength, thunder, lightning"
+  },
+  {
+    "name": "Ti Kita",
+    "family_nation": "Kongo",
+    "relationships": "Marinette Pye Ché,",
+    "patronage_power": "underhand dealings,"
+  },
+  {
+    "name": "Ti Jean Quinto",
+    "family_nation": "Gede",
+    "relationships": "",
+    "patronage_power": "protection from harsh treatment of the law"
+  },
+  {
+    "name": "Ti Malice",
+    "family_nation": "n/a",
+    "relationships": "Tonton Bouki",
+    "patronage_power": "intelligence, guile, trickery"
+  },
+  {
+    "name": "Tonton Bouki",
+    "family_nation": "n/a",
+    "relationships": "Ti Malice",
+    "patronage_power": "greed, hardwork, trickery"
+  },
+  {
+    "name": "Toro",
+    "family_nation": "Rada, Petro",
+    "relationships": "Bossou",
+    "patronage_power": "strength, rage, havoc"
+  },
+  {
+    "name": "Ti Jean Petro (Don Petro)",
+    "family_nation": "Petro, Kongo, Pye Séche",
+    "relationships": "Erzulie, Ti Jean Dantor, Marinette Pye Ché,",
+    "patronage_power": "Fire, force, revolution, farmers, resistance"
+  },
+  {
+    "name": "Ti Jean Dantor",
+    "family_nation": "Petro",
+    "relationships": "Erzulie, Ti Jean Petro",
+    "patronage_power": "festivity, pleasure, gossip"
+  },
+  {
+    "name": "Wawe",
+    "family_nation": "Gede",
+    "relationships": "",
+    "patronage_power": ""
+  },
+  {
+    "name": "Jean Racine",
+    "family_nation": "Petro",
+    "relationships": "",
+    "patronage_power": "blood of the revolution"
+  },
+  {
+    "name": "Linglinsou",
+    "family_nation": "Petro",
+    "relationships": "",
+    "patronage_power": "revenge"
+  },
+  {
+    "name": "Gran Chemin",
+    "family_nation": "Rada",
+    "relationships": "",
+    "patronage_power": ""
+  },
+  {
+    "name": "Ceverine",
+    "family_nation": "Rada",
+    "relationships": "Erzulie, La Sirène",
+    "patronage_power": ""
+  },
+  {
+    "name": "Saint Jacques Majeur",
+    "family_nation": "Nago",
+    "relationships": "Erzulie,",
+    "patronage_power": ""
+  },
+  {
+    "name": "Ogoun",
+    "family_nation": "Rada, Petro, Nago, Kongo",
+    "relationships": "Erzulie, Saint Jacques Majeur, Agwé, Gran Aloumandia, Damballa, Simbi",
+    "patronage_power": "blacksmiths, flight, navy, medicine, firefighters, lumber, duality, balance, fierceness, temperament, warriors, lightning, thunder, storms,"
+  },
+  {
+    "name": "Gran Batala",
+    "family_nation": "Nago",
+    "relationships": "",
+    "patronage_power": "soldiers, peace, sky, children,"
+  },
+  {
+    "name": "Bó Lanmè",
+    "family_nation": "Kongo",
+    "relationships": "",
+    "patronage_power": "truth"
+  },
+  {
+    "name": "La Ren Kongo",
+    "family_nation": "Kongo",
+    "relationships": "Simbi,",
+    "patronage_power": "joy, jealousy, praise"
+  },
+  {
+    "name": "Chaloten",
+    "family_nation": "Kongo",
+    "relationships": "",
+    "patronage_power": "ravine, abyss"
+  },
+  {
+    "name": "Gran Ibolele",
+    "family_nation": "Ibo",
+    "relationships": "Gran Aloumandia, La Sirène, Gede",
+    "patronage_power": "funeral rites, hard work, struggle, death and resurrection"
+  },
+  {
+    "name": "Gran Aloumandia",
+    "family_nation": "Kongo",
+    "relationships": "Azaka, Ayizan, Gran Ibolele, Ogou,",
+    "patronage_power": "hunger, memory, ocean, woods, bridge between the visible and invisible world"
+  },
+  {
+    "name": "Krabinay",
+    "family_nation": "Petro",
+    "relationships": "",
+    "patronage_power": "cynicism, desperate cases"
+  }
+]
