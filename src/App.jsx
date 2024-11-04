@@ -1,37 +1,43 @@
-import { useState } from 'react'
-// import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
+// import { useState } from 'react'
 import './App.css'
 
 import NetworkChart from "../components/NetworkChart";
 
+import data from '../data/data.json'
+
 function App() {
-  // const [count, setCount] = useState(0)
+  // console.log('data', data)
+  const chartData = {
+    nodes: [],
+    links: []
+  };
+
+  chartData.nodes = data.map(el => ({
+    id: el.name,
+    nation: el.family_nation,
+    patronage: el.patronage_power,
+  }));
+
+  data.forEach(el => {
+    const relatedNames = el.relationships.split(',').map(name => name.trim()).filter(name => name);
+
+    relatedNames.forEach(targetName => {
+      const target = data.find(datum => datum.name === targetName);
+
+      if (target) {
+        chartData.links.push({
+          source: el.name,
+          target: target.name,
+        })
+      }
+    })
+  });
+  console.log('chartData', chartData);
 
   return (
     <>
-      {/* <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p> */}
       <div>intro section</div>
-      <NetworkChart />
+      <NetworkChart width={850} height={600} data={data} />
       <div>summary section</div>
     </>
   )
